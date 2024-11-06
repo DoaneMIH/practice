@@ -164,13 +164,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "flutter_application_1",
+      "name": "unit5_assignment_horlador",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.6"
     }
   ],
-  "generated": "2024-09-20T09:21:47.560697Z",
+  "generated": "2024-10-22T09:40:51.122891Z",
   "generator": "pub",
   "generatorVersion": "3.6.0-149.3.beta",
   "flutterRoot": "file:///C:/flutter/flutter",
