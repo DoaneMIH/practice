@@ -1,4 +1,4 @@
-package com.example.practice
+package com.example.unit6_assignment_horlador
 
 import io.flutter.embedding.android.FlutterActivity
 

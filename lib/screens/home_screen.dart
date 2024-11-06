@@ -9,14 +9,17 @@ class HomScreen extends StatelessWidget {
       appBar: AppBar(
         title: const Text("Gesture and Navigation"),
       ),
-      body: const Column(
+      body: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Text("This is supposed to be a Home Screen"),
-          SizedBox(height: 20),
+          const Text("This is supposed to be a Home Screen"),
+          const SizedBox(height: 20),
           
           // INSERT CODE BELOW
+          TextButton(
+            onPressed: () => Navigator.pushNamed(context, 'about'), 
+          child: const Text("Go to About Me"))
         ],
       ),
     );
