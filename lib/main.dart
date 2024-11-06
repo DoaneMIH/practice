@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(ProfilePageApp());
+void main() => runApp(const ProfilePageApp());
 
 class ProfilePageApp extends StatelessWidget {
   const ProfilePageApp({super.key});
@@ -13,7 +13,7 @@ class ProfilePageApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: ProfilePage(),
+      home: const ProfilePage(),
     );
   }
 }
