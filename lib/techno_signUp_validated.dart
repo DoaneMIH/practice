@@ -7,6 +7,7 @@ class RegistrationTechno extends StatefulWidget {
   @override
   State<RegistrationTechno> createState() => _RegistrationTechnoState();
 }
+//Edited
 
 class _RegistrationTechnoState extends State<RegistrationTechno> {
 final _formfield = GlobalKey<FormState>();
