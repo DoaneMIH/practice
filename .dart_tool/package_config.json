@@ -62,12 +62,6 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "gradient_elevated_button",
-      "rootUri": "file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/gradient_elevated_button-1.0.0",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
-    },
-    {
       "name": "leak_tracker",
       "rootUri": "file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-10.0.5",
       "packageUri": "lib/",
@@ -170,13 +164,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "technodeskworks",
+      "name": "unit6_assignment_horlador",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.6"
     }
   ],
-  "generated": "2024-10-22T15:17:08.159833Z",
+  "generated": "2024-11-07T09:44:28.411030Z",
   "generator": "pub",
   "generatorVersion": "3.6.0-149.3.beta",
   "flutterRoot": "file:///C:/flutter/flutter",
