@@ -22,6 +22,10 @@ cupertino_icons
 3.1
 file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.8/
 file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.8/lib/
+curved_navigation_bar
+2.12
+file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/curved_navigation_bar-1.0.6/
+file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/curved_navigation_bar-1.0.6/lib/
 fake_async
 2.12
 file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/fake_async-1.3.1/
@@ -32,8 +36,8 @@ file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-4.0.0
 file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-4.0.0/lib/
 gradient_elevated_button
 3.2
-file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/gradient_elevated_button-1.0.0/
-file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/gradient_elevated_button-1.0.0/lib/
+file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/gradient_elevated_button-0.0.8/
+file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/gradient_elevated_button-0.0.8/lib/
 leak_tracker
 3.2
 file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-10.0.5/
@@ -98,7 +102,7 @@ vm_service
 3.3
 file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-14.2.4/
 file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-14.2.4/lib/
-technodeskworks
+exercisce_unit4
 3.6
 file:///C:/Users/ASUS/OneDrive/Desktop/practice/
 file:///C:/Users/ASUS/OneDrive/Desktop/practice/lib/

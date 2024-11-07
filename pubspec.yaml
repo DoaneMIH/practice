@@ -1,4 +1,4 @@
-name: technodeskworks
+name: exercisce_unit4
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -28,6 +28,7 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  gradient_elevated_button : ^0.0.5
   flutter:
     sdk: flutter
 
@@ -35,7 +36,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
-  gradient_elevated_button: ^1.0.0
+  curved_navigation_bar: ^1.0.6
 
 dev_dependencies:
   flutter_test:
@@ -60,11 +61,11 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-assets:
-  - images/TechnoDeskWorks.png
-  - images/facebook.png
-  - images/google.png
-  - images/linkedin.png
+  assets:
+    - assets/images/TechnoDeskWorks.png
+    - assets/images/facebook.png
+    - assets/images/google.png
+    - assets/images/linkedin.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
