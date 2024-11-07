@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/unit5_assignment_horlador.iml" filepath="$PROJECT_DIR$/unit5_assignment_horlador.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/unit5_assignment_horlador_android.iml" filepath="$PROJECT_DIR$/android/unit5_assignment_horlador_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/technodeskworks.iml" filepath="$PROJECT_DIR$/technodeskworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/technodeskworks_android.iml" filepath="$PROJECT_DIR$/android/technodeskworks_android.iml" />
     </modules>
   </component>
 </project>
