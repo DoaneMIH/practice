@@ -1,0 +1,6 @@
+{
+  "patientID": "123",
+  "doctorID": "456",
+  "encryptedRecord": "encrypted_data",
+  "accessStatus": "pending" 
+}
